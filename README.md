@@ -16,3 +16,8 @@ git clone https://github.com/IQpendak/Titat_node-install.git
 cd Titat_node-install
 chmod +x titan.sh
 ./titan.sh
+
+
+або
+
+sudo wget https://raw.githubusercontent.com/IQpendak/Titat_node-install/refs/heads/main/titan.sh && chmod +x titan.sh && ./titan.sh
